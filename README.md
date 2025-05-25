@@ -1,2 +1,1 @@
-# heart-attack-EDA
-An exploratory data analysis on major factors resulting in heart attack risk increase, and the sample population most likely to be at risk
+An exploratory data analysis (EDA) using SAS programming and SQL to investigate key factors influencing heart attack risk. The analysis identifies patterns among high-risk populations by examining variables such as lifestyle, medical history, and demographics.
